@@ -7,6 +7,9 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
   "devDependencies": {
     "@miaoxing/dev": "^6.4.0"
   },
