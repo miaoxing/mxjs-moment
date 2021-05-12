@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/moment",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -11,7 +11,7 @@
     "moment": "^2.27.0"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^7.0.0"
+    "@miaoxing/dev": "^7.0.1"
   },
   "jest": {
     "preset": "jest-preset-miaoxing"
